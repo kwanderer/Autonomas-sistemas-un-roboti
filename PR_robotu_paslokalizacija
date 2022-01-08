@@ -13,8 +13,8 @@ n = 0.2
 bb = ss = 0.9
 bs = sb = 0.1
 #robota koordinātas:
-x = 0
-y = 0
+#x = 0
+#y = 0
 #z = 0
 #mērījuma vertība: s -siena, b - brīvs
 m = "s"
